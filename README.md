@@ -1,1 +1,2 @@
-# AM207-Project
+# Fluctuation analysis for inferring transient heritability of gene expression in mammalian cell lineages
+This repository contains all the code written for the project and graphs generated from the code.
